@@ -2,6 +2,8 @@
 
 **Senior iOS Engineer** — Swift, SwiftUI, UIKit
 
+Buenos Aires, Argentina
+
 I work on the Mercado Pago app for iOS and Android at Mercado Libre. It is a modular app built across many teams; I am the only native developer on mine, and I own its native surface end to end — technical design, implementation, code review, release cadence and performance.
 
 Over these years I have designed, built and operated production platforms end to end: multi-tenant backends, payments and electronic invoicing, mobile apps published on both stores, and the infrastructure they run on.
